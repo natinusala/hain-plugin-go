@@ -6,6 +6,6 @@ Usage : `/go something`
 Examples :
         `/go facebook`
         `/go github`
-        `/go stack overflow profile`
+        `/go wikipedia barack obama`
 
 
