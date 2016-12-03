@@ -1,5 +1,6 @@
 {
   "name": "hain-plugin-go",
+  "author": "natinusala",
   "version": "1.0.1",
   "description": "Hain plugin to open anything in a browser using Google's Feeling Lucky",
   "main": "index.js",
