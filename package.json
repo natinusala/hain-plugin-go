@@ -1,6 +1,6 @@
 {
   "name": "hain-plugin-go",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Hain plugin to open anything in a browser using Google's Feeling Lucky",
   "main": "index.js",
   "repository": {
